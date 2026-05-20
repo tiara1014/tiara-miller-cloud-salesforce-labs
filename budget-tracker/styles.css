@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; max-width:600px; margin:40px auto; }
+h1 { font-size:20px; }
+form input { margin-right:8px; padding:6px; }
+ul { margin-top:16px; padding-left:0; list-style:none; }
+li { padding:6px 0; border-bottom:1px solid #eee; display:flex; justify-content:space-between; }
+button { padding:6px 10px; }
